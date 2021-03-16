@@ -1,0 +1,3 @@
+include ':corekt'
+include ':app'
+rootProject.name = "Frame-master"
